@@ -20,5 +20,4 @@ and deep learning in Computer Vision.
 
  I hope to be this the fisrt step to learn computer vision field 
  and be very useful to you.
-8) 
-9) 
+
